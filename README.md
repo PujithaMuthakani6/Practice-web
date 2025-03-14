@@ -4,7 +4,6 @@ A basic React.js website built using Vite for fast performance and modern develo
 
 ## 🚀 Features
 - ⚡ Built with **React.js** and **Vite**
-- 🎨 Uses **Tailwind CSS** for styling
 - 📁 Organized file structure
 - 📜 Simple routing with React Router (if applicable)
 - 🌐 Fully static and optimized for fast loading
@@ -49,7 +48,5 @@ A basic React.js website built using Vite for fast performance and modern develo
 - `npm run preview` - Preview the production build
 
 ## 📜 Project Description
-This is a **fast and lightweight static website** built using **React.js and Vite**. It features a modern, responsive design with optimized performance. The project is structured for easy scalability and includes **reusable components** for better maintainability. Built with **Tailwind CSS** for styling, it offers a **sleek and minimalistic UI**, perfect for **static landing pages, portfolios, or informational websites**.
+This is a **fast and lightweight static website** built using **React.js and Vite**. It features a modern, responsive design with optimized performance. The project is structured for easy scalability and includes **reusable components** for better maintainability.it offers a **sleek and minimalistic UI**, perfect for **static landing pages, portfolios, or informational websites**.
 
-## 📜 License
-This project is licensed under the MIT License.
